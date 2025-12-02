@@ -1,7 +1,4 @@
----
-title: Minha Página
-theme: jekyll-theme-cayman
----
+
 
 # Resumo dos conhecimentos adiquiridos nas aulas de Hardskills
 
