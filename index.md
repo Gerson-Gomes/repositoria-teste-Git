@@ -3,7 +3,7 @@
 # Resumo dos conhecimentos adiquiridos nas aulas de Hardskills
 
 ## Redes de Computadores
-   ### Prof. Kenji
+   ## Prof. Kenji
 
 * Topologias de redes
     * Topologia de Estrela
